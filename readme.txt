@@ -1,6 +1,0 @@
-
-
-Minecraft_Server_Creator-v1.0.zip = zip directory
-Minecraft_Server_Creator-v1.0.exe = full setup
-server.jar = 1.16.5 test server engine
-
