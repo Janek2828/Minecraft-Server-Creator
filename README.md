@@ -9,4 +9,4 @@ Make your own Minecraft server fast and easy for free! - Janek2828, JU Games
 
 
 
-[<img src="button.png" width="85"/>](https://github.com/Janek2828/Minecraft-Server-Creator)
+[<img src="button.png" width="400"/>](https://github.com/Janek2828/Minecraft-Server-Creator)
